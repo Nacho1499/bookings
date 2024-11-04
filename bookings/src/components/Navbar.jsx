@@ -8,7 +8,7 @@ const Navbar = () => {
         <div className="container">
           <a className="navbar-brand" href="#">
             <h4 className="text-light">
-              Partcy<span className="text-warning">Bookings</span>{" "}
+              Patcy<span className="text-warning">Bookings</span>{" "}
             </h4>
           </a>
           <button

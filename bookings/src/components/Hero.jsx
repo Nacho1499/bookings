@@ -1,14 +1,16 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
+import travel from "../assets/Travel.mp4";
 
 const Hero = () => {
     return(
         <>
             <div className='hero container-fluid'>
                 <div className=''>
-                <h2 className='text-light text-center'>PARTCY BOOKINGS TRAVELLING AGENCY</h2>
+                <h2 className='text-light text-center'>PATCY BOOKINGS & TRAVELLING AGENCY</h2>
                 <p className='text-light text-center'>Your Journey Starts Here...</p>
                 <div className='text-center'>
-                <button className='hero-btn btn btn-outline-warning text-light'>Contact Us</button>
+                <Link to="/contact" className='hero-btn btn btn-outline-warning text-light'>Contact Us</Link>
                 <button className=' hero-btn btn btn-warning'>Book Now</button>
                 </div>
                 <hr className='text-warning' />
@@ -25,6 +27,9 @@ const Hero = () => {
 
 
             </div>
+            <section className='container-fluid mt-3'>
+                <video className='travel-video  img-fluid ' src={travel}  autoPlay loop muted></video>
+            </section>
         </>
     )
 }

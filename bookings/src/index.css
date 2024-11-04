@@ -83,5 +83,16 @@ form{
 .customer{
    opacity: 0.8;
 }
+.tour{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+.travel-video{
+  width: 100vw;
+  height: 50vh;
+  object-fit: fill;
 
+}
 

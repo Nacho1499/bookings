@@ -18,7 +18,7 @@ const Footer = () => {
                 </div>
                 <hr className='text-warning' />
                 
-                <p className='text-light text-center mt-4' >©<span>{dateRunning}</span>.  Partcy<span className='text-warning'>Bookings</span> All Right Reserved.</p>
+                <p className='text-light text-center mt-4' >©<span>{dateRunning}</span>.  Patcy<span className='text-warning'>Bookings</span> All Right Reserved.</p>
 
             
 

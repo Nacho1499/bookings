@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import travel from "../assets/Travel.mp4";
 
 const Hero = () => {
+
     return(
         <>
             <div className='hero container-fluid'>

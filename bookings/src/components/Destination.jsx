@@ -23,9 +23,10 @@ const Destination = () => {
                   <i className="text-warning fa-solid fa-star"></i>
                   <i className="text-warning fa-solid fa-star"></i>
                   <h5 className="mt-2">Paris</h5>
+                  
                 </div>
                 <div>
-                  <p>tours - 50,000 visits</p>
+                  <p>over - 50,000 visits</p>
                   <button className="btn btn-warning shadow">Book Now</button>
                 </div>
               </div>
@@ -43,10 +44,10 @@ const Destination = () => {
                   <i className="text-warning fa-solid fa-star"></i>
                   <i className="text-warning fa-solid fa-star"></i>
                   <i className="text-warning fa-solid fa-star"></i>
-                  <h5>Rome</h5>
+                  <h5>United State</h5>
                 </div>
                 <div>
-                  <p>tours - 20,000 visits</p>
+                  <p>over - 20,000 visits</p>
                   <button className="btn btn-warning shadow">Book Now</button>
                 </div>
               </div>
@@ -66,7 +67,7 @@ const Destination = () => {
                   <h5>Dubai</h5>
                 </div>
                 <div>
-                  <p>tours - 10,000 visits</p>
+                  <p>over - 10,000 visits</p>
                   <button className="btn btn-warning shadow">Book Now</button>
                 </div>
               </div>

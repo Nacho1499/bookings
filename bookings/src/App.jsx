@@ -5,6 +5,7 @@ import Destination from "./components/Destination";
 import Footer from "./components/Footer";
 import Testimonia from "./components/Testimonia";
 import Blog from "./components/Blog";
+import FAQ from "./components/FAQ";
 
 function App() {
  
@@ -17,6 +18,7 @@ function App() {
     <Destination/>
     <Testimonia/>
     <Blog/>
+    <FAQ/>
     <Footer/>
   
  

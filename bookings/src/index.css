@@ -2,9 +2,10 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  
 }
 .hero{
-  background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0, 0, 0, 0.65)),url(assets/plane2.jpg);
+  background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0, 0, 0, 0.65)),url(assets/flight2.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -72,7 +73,7 @@ form{
   margin: 5px;
 }
 .testimonia{
-  background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0, 0, 0, 0.65)),url(assets/plane5.jpg);
+  background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0, 0, 0, 0.65)),url(assets/flight.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

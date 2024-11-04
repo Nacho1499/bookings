@@ -1,0 +1,87 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.hero{
+  background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0, 0, 0, 0.65)),url(assets/plane2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hero-btn{
+  margin: 5px;
+  
+}
+.navbar{
+  opacity: 0.9;
+}
+
+.service1{
+  background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0, 0, 0, 0.65)),url(assets/plane4.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40vh;
+
+}
+.service2{
+  background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0, 0, 0, 0.65)),url(assets/car.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40vh;
+
+}
+.service3{
+  background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0, 0, 0, 0.65)),url(assets/hotel.webp);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40vh;
+
+}
+.tour-play{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+
+}
+.contact{
+  background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0, 0, 0, 0.75)),url(assets/contact.webp);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ height: fit-content;
+ height: 50vh;
+ background-attachment: fixed;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+form{
+  max-width: 800px;
+}
+.footer{
+  margin: 5px;
+}
+.testimonia{
+  background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0, 0, 0, 0.65)),url(assets/plane5.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: fit-content;
+  background-attachment: fixed;
+
+}
+.customer{
+   opacity: 0.8;
+}
+
+

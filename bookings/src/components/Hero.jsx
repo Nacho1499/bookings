@@ -29,7 +29,7 @@ const Hero = () => {
 
             </div>
             <section className='container-fluid mt-3'>
-                <video className='travel-video  img-fluid ' src={travel}  autoPlay loop muted></video>
+                <video className='travel-video  img-fluid ' src={travel}   autoPlay loop muted></video>
             </section>
         </>
     )

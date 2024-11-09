@@ -6,6 +6,8 @@ import Footer from "./components/Footer";
 import Testimonia from "./components/Testimonia";
 import Blog from "./components/Blog";
 import FAQ from "./components/FAQ";
+import Visa from './components/Visa';
+import Visa1 from "./components/Visa1";
 
 function App() {
  
@@ -16,8 +18,10 @@ function App() {
     <Hero/>
     <Services/>
     <Destination/>
+    <Visa1/>
     <Testimonia/>
     <Blog/>
+    <Visa/>
     <FAQ/>
     <Footer/>
   

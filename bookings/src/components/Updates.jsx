@@ -7,7 +7,7 @@ const Updates = () => {
   return (
     <>
     <Scroll/>
-      <div className="container-fluid bg-black p-4">
+      <div className="update container-fluid bg-black p-4">
         <div className="container mt-5 mb-4">
           <h4 className="text-light">Available Updates</h4>
           <hr className="text-warning" />

@@ -44,7 +44,7 @@ const Destination = () => {
                   <i className="text-warning fa-solid fa-star"></i>
                   <i className="text-warning fa-solid fa-star"></i>
                   <i className="text-warning fa-solid fa-star"></i>
-                  <h5>United State</h5>
+                  <h5 className="mt-2">United State</h5>
                 </div>
                 <div>
                   <p>over - 20,000 visits</p>
@@ -64,7 +64,7 @@ const Destination = () => {
                   <i className="text-warning fa-solid fa-star"></i>
                   <i className="text-warning fa-solid fa-star"></i>
                   <i className="text-warning fa-solid fa-star"></i>
-                  <h5>Dubai</h5>
+                  <h5 className="mt-2">Dubai</h5>
                 </div>
                 <div>
                   <p>over - 10,000 visits</p>

@@ -114,4 +114,21 @@ form{
 .visa-img{
   width:500px;
 }
+.update{
+  background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0, 0, 0, 0.65)),url(assets/plane2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: fit-content;
+  background-attachment: fixed;
 
+}
+.about{
+  background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0, 0, 0, 0.65)),url(assets/plane4.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: fit-content;
+  background-attachment: fixed;
+
+}

@@ -55,9 +55,7 @@ const Services = () => {
             </div>
           </div>
         </div>
-        <a className="text-decoration-none text-warning " href="">
-          View More <i className="fa-solid fa-arrow-right mt-4"></i>
-        </a>
+        
       </div>
     </>
   );

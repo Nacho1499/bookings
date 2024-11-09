@@ -132,3 +132,18 @@ form{
   background-attachment: fixed;
 
 }
+.all{
+  background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0, 0, 0, 0.65)),url(assets/tour2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.des{
+  height: 250px;
+  object-fit: cover;
+}
+

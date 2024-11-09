@@ -1,5 +1,5 @@
 import React from "react";
-import visa from "../assets/visa.webp";
+import visa from "../assets/travel.jpg";
 import { Link } from "react-router-dom";
 
 const Visa1 = () => {

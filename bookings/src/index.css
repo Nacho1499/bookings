@@ -29,7 +29,8 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 40vh;
+  height: fit-content;
+  
 
 }
 .service2{
@@ -37,7 +38,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 40vh;
+  height: fit-content;
 
 }
 .service3{
@@ -45,7 +46,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 40vh;
+  height: fit-content;
 
 }
 .tour-play{
@@ -61,7 +62,7 @@
   background-size: cover;
  height: fit-content;
  height: 50vh;
- background-attachment: fixed;
+
  display: flex;
  justify-content: center;
  align-items: center;

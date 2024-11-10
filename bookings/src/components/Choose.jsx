@@ -6,14 +6,15 @@ const Choose = () => {
       <div className="choose container-fluid mt-5 mb-5">
         <div className="container">
           <h4 className="text-center">Why Choose Us</h4>
-          <p className="text-center mb-4">
+          <p className="text-center mb-3">
             A brand name you can trust and rely on
           </p>
-          <hr className="text-warning mb-3" />
-          <div className="row text-center mt-3">
+          <hr className="text-warning mb-2" />
+          <div className="row g-5 text-center mt-2">
             <div className="col-12 col-lg-4">
-              <i class=" text-warning fa-solid fa-earth-americas fa-2x mb-3"></i>
+              <i class=" bg-warning fa-solid fa-earth-americas fa-1x mb-3 shadow p-3 rounded"></i>
               <h5 className="mb-3">Affordable price guarantee</h5>
+               <hr className="text-warning" />
               <p>
                 Booking early often results in better prices, especially for
                 flights and accommodations. However, last-minute deals can
@@ -22,8 +23,9 @@ const Choose = () => {
               </p>
             </div>
             <div className="col-12 col-lg-4">
-              <i class=" text-warning fa-solid fa-bag-shopping fa-2x mb-3"></i>
+              <i class=" bg-warning fa-solid fa-bag-shopping fa-1x mb-3 shadow p-3 rounded"></i>
               <h5 className="mb-3">Wide variety of destinations</h5>
+               <hr className="text-warning" />
               <p>
                 If you're looking for a variety of destinations at affordable
                 prices, there are plenty of incredible spots around the world
@@ -34,8 +36,9 @@ const Choose = () => {
               </p>
             </div>
             <div className="col-12 col-lg-4">
-              <i class="text-warning fa-solid fa-thumbs-up fa-2x mb-3"></i>
+              <i class=" fa-solid fa-thumbs-up fa-1x mb-3 shadow p-3 rounded bg-warning"></i>
               <h5 className="mb-3">Highly qualified services</h5>
+              <hr className="text-warning" />
               <p>
                 At patcy bookings we provide services that consistently meet or
                 exceed customer expectations, are reliable, and provide value.

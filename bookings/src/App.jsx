@@ -9,6 +9,7 @@ import FAQ from "./components/FAQ";
 import Visa from './components/Visa';
 import Visa1 from "./components/Visa1";
 import Aboutus from "./components/Aboutus";
+import Choose from "./components/Choose";
 
 function App() {
  
@@ -17,6 +18,7 @@ function App() {
     <>
     <Navbar/>
     <Hero/>
+    <Choose/>
     <Services/>
     <Destination/>
     <Visa1/>

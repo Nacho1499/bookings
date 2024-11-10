@@ -1,5 +1,6 @@
 import React from "react";
 import travel from "../assets/Travel.mp4";
+import { Link } from "react-router-dom";
 
 const Aboutus = () => {
   return (
@@ -30,7 +31,7 @@ const Aboutus = () => {
             experienced travel consultants works closely with clients to create
             the perfect itinerary. They take into account individual
             preferences, ensuring each trip is memorable and fulfilling.</p>
-            <button className="btn btn-outline-warning mt-3 shadow">Read More <i className="fa-solid fa-arrow-right"></i></button>
+            <Link to="/about" className="btn btn-outline-warning mt-3">More About Us <i className="fa-solid fa-arrow-right"></i></Link>
           </div>
         </div>
         </div>

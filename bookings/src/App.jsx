@@ -8,6 +8,7 @@ import Blog from "./components/Blog";
 import FAQ from "./components/FAQ";
 import Visa from './components/Visa';
 import Visa1 from "./components/Visa1";
+import Aboutus from "./components/Aboutus";
 
 function App() {
  
@@ -20,6 +21,7 @@ function App() {
     <Destination/>
     <Visa1/>
     <Testimonia/>
+    <Aboutus/>
     <Blog/>
     <Visa/>
     <FAQ/>

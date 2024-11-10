@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Visa1 = () => {
   return (
     <>
-      <div className="container-fluid mt-4 mb-4">
+      <div className="container-fluid mt-5 mb-5">
         <div className="container">
           <div className="row g-3 mt-4 mb-4">
             <div className="col-12 col-lg-6">

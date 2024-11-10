@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import travel from "../assets/Travel.mp4";
+
 
 const Hero = () => {
 
@@ -28,9 +28,7 @@ const Hero = () => {
 
 
             </div>
-            <section className='container-fluid mt-3'>
-                <video className='travel-video  img-fluid ' src={travel}   autoPlay loop muted></video>
-            </section>
+           
         </>
     )
 }
